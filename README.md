@@ -8,3 +8,9 @@ A Black-Scholes options pricing tool built using FastAPI and Streamlit for optio
 - Support for historical volatility input.
 - Implied volatility calculator.
 - Docker support for easy deployment.
+
+
+## License
+This project is licensed under the MIT License.
+
+
